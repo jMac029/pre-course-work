@@ -15,3 +15,7 @@ hr {
   color: blue;
   height: 5px;
 }
+
+ul {
+    list-style-type: square;
+}

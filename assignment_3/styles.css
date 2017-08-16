@@ -1,0 +1,24 @@
+body {
+    font-family: 'Droid Sans', sans-serif;
+    margin-right: 250px;
+    margin-left: 250px;
+    align-items: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto Slab', serif;
+}
+
+div.ListContainer {
+  width: 600px;
+}
+
+hr {
+  margin-right: inherit;
+  color: blue;
+  height: 5px;
+}
+
+ul {
+    list-style-type: square;
+}

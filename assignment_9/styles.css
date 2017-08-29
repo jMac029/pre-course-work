@@ -1,0 +1,60 @@
+h1 {
+     text-align: center;
+    }
+
+h2 {
+    }
+
+p {
+       ;
+    }
+
+.redText {
+      color: red;
+    }
+
+.blueText {
+      color: blue;
+    }
+
+.greenText {
+      color: green;
+    }
+
+.bigText {
+      font-size: 24px;
+    }
+
+.tinyText {
+  font-size: 8px;
+}
+
+.centeredText {
+  text-align: center;
+}
+
+.boldText {
+  font-weight: bold;
+}
+
+.fontText {
+  font-family: sans-serif;
+}
+
+.multiText {
+  font-size: 24px;
+  color: orange;
+  font-weight: bold;
+}
+
+.styledFont {
+  color: green;
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+img {
+  border-color: orange;
+  border-width: thick;
+  border-style: solid;
+}
